@@ -1,0 +1,8 @@
+.venv
+
+code/files_temp_dir/
+
+testsets/TS_PerGen/*/
+testsets/TS_PerGen_noisy/
+testsets/TS_Per/
+testsets/TS_Per_noisy/

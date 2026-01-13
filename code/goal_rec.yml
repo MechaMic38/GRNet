@@ -269,4 +269,5 @@ dependencies:
     - kaleido==0.2.1
     - tensorflow-addons==0.14.0
     - typeguard==2.12.1
+    - tqdm
 prefix: /opt/anaconda/anaconda3/envs/goal_rec
