@@ -2,6 +2,8 @@
 
 code/files_temp_dir/
 
+results/
+
 testsets/TS_PerGen/*/
 testsets/TS_PerGen_noisy/
 testsets/TS_Per/
