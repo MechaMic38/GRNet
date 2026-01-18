@@ -3,8 +3,11 @@
 code/files_temp_dir/
 
 results/
+results_v*/
 
 testsets/TS_PerGen/*/
 testsets/TS_PerGen_noisy/
 testsets/TS_Per/
 testsets/TS_Per_noisy/
+
+testsets_v*/
